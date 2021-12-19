@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<icons>
+    <icon
+        drawable="@drawable/themed_icon_android_auto"
+        package="com.google.android.projection.gearhead" />
+    <icon
+        drawable="@drawable/themed_icon_drive"
+        package="com.google.android.apps.docs" />
+    <icon
+        drawable="@drawable/themed_icon_google"
+        package="com.google.android.googlequicksearchbox" />
+    <icon
+        drawable="@drawable/themed_icon_meet"
+        package="com.google.android.apps.meetings" />
+    <icon
+        drawable="@drawable/themed_icon_recorder"
+        package="com.google.android.apps.recorder" />
+    <icon
+        drawable="@drawable/themed_icon_authenticator"
+        package="com.google.android.apps.authenticator2" />
+    <icon
+        drawable="@drawable/themed_icon_duo"
+        package="com.google.android.apps.tachyon" />
+    <icon
+        drawable="@drawable/themed_icon_google_assistant"
+        package="com.google.android.apps.googleassistant" />
+    <icon
+        drawable="@drawable/themed_icon_messages"
+        package="com.google.android.apps.messaging" />
+    <icon
+        drawable="@drawable/themed_icon_safety"
+        package="com.google.android.apps.safetyhub" />
+    <icon
+        drawable="@drawable/themed_icon_calculator"
+        package="com.google.android.calculator" />
+    <icon
+        drawable="@drawable/themed_icon_family_link"
+        package="com.google.android.apps.kids.familylink" />
+    <icon
+        drawable="@drawable/themed_icon_family_link_ct"
+        package="com.google.android.apps.kids.familylinkhelper" />
+    <icon
+        drawable="@drawable/themed_icon_google_fi"
+        package="com.google.android.apps.tycho" />
+    <icon
+        drawable="@drawable/themed_icon_news"
+        package="com.google.android.apps.magazines" />
+    <icon
+        drawable="@drawable/themed_icon_settings"
+        package="com.android.settings" />
+    <icon
+        drawable="@array/grayscale_calendar_icons"
+        package="com.google.android.calendar" />
+    <icon
+        drawable="@drawable/themed_icon_files"
+        package="com.google.android.apps.nbu.files" />
+    <icon
+        drawable="@drawable/themed_icon_google_one"
+        package="com.google.android.apps.subscriptions.red" />
+    <icon
+        drawable="@drawable/themed_icon_photos"
+        package="com.google.android.apps.photos" />
+    <icon
+        drawable="@drawable/themed_icon_sheets"
+        package="com.google.android.apps.docs.editors.sheets" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.google.android.GoogleCamera" />
+    <icon
+        drawable="@drawable/themed_icon_find_my_device"
+        package="com.google.android.apps.adm" />
+    <icon
+        drawable="@drawable/themed_icon_google_tv"
+        package="com.google.android.videos" />
+    <icon
+        drawable="@drawable/themed_icon_play_books"
+        package="com.google.android.apps.books" />
+    <icon
+        drawable="@drawable/themed_icon_lens"
+        package="com.google.ar.lens" />
+    <icon
+        drawable="@drawable/themed_icon_chrome"
+        package="com.android.chrome" />
+    <icon
+        drawable="@drawable/themed_icon_g_translate"
+        package="com.google.android.apps.translate" />
+    <icon
+        drawable="@drawable/themed_icon_gpay"
+        package="com.google.android.apps.nbu.paisa.user" />
+    <icon
+        drawable="@drawable/themed_icon_play_games"
+        package="com.google.android.play.games" />
+    <icon
+        drawable="@drawable/themed_icon_slides"
+        package="com.google.android.apps.docs.editors.slides" />
+    <icon
+        drawable="@drawable/themed_icon_contacts"
+        package="com.google.android.contacts" />
+    <icon
+        drawable="@drawable/themed_icon_gboard"
+        package="com.google.android.inputmethod.latin" />
+    <icon
+        drawable="@drawable/themed_icon_home"
+        package="com.google.android.apps.chromecast.app" />
+    <icon
+        drawable="@drawable/themed_icon_play_services"
+        package="com.google.android.ims" />
+    <icon
+        drawable="@drawable/themed_icon_youtube"
+        package="com.google.android.youtube" />
+    <icon
+        drawable="@drawable/themed_icon_dialer"
+        package="com.google.android.dialer" />
+    <icon
+        drawable="@drawable/themed_icon_gfit_health"
+        package="com.google.android.apps.fitness" />
+    <icon
+        drawable="@drawable/themed_icon_keep"
+        package="com.google.android.keep" />
+    <icon
+        drawable="@drawable/themed_icon_play_store"
+        package="com.android.vending" />
+    <icon
+        drawable="@drawable/themed_icon_youtube_music"
+        package="com.google.android.apps.youtube.music" />
+    <icon
+        drawable="@drawable/themed_icon_docs_editors"
+        package="com.google.android.apps.docs.editors.docs" />
+    <icon
+        drawable="@drawable/themed_icon_gmail"
+        package="com.google.android.gm" />
+    <icon
+        drawable="@drawable/themed_icon_maps"
+        package="com.google.android.apps.maps" />
+    <icon
+        drawable="@drawable/themed_icon_podcasts"
+        package="com.google.android.apps.podcasts" />
+    <icon
+        drawable="@drawable/themed_icon_youtube_tv"
+        package="com.google.android.apps.youtube.unplugged" />
+    <icon
+        drawable="@array/grayscale_clock_icons"
+        package="com.google.android.deskclock" />
+    <icon
+        drawable="@drawable/themed_icon_chat"
+        package="com.google.android.apps.dynamite" />
+    <icon
+        drawable="@drawable/themed_icon_digital_wellbeing"
+        package="com.google.android.apps.wellbeing" />
+    <icon
+        drawable="@drawable/themed_icon_tasks"
+        package="com.google.android.apps.tasks" />
+    <icon
+        drawable="@drawable/themed_icon_pixeltips"
+        package="com.google.android.apps.tips" />
+    <icon
+        drawable="@drawable/themed_icon_wear_os"
+        package="com.google.android.wearable.app" />
+    <icon
+        drawable="@drawable/themed_icon_classroom"
+        package="com.google.android.apps.classroom" />
+    <icon
+        drawable="@drawable/themed_icon_chrome"
+        package="org.bromite.bromite" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="org.codeaurora.snapcam" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.google.android.GoogleCameraEng" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.MGC" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.MGC_8_4_300" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.google.android.GoogleCameraPixelX" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.google.android.apps.cameralite" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.footej.camera2" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.camera" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.camera2" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.samsung.android.ruler" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="net.sourceforge.opencamera" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.MGC.not.stable" />
+    <icon
+        drawable="@drawable/themed_icon_chrome"
+        package="com.chrome.canary" />
+    <icon
+        drawable="@drawable/themed_icon_vk"
+        package="re.sova.five" />
+    <icon
+        drawable="@drawable/themed_icon_vk"
+        package="com.vkontakte.android" />
+    <icon
+        drawable="@drawable/themed_icon_vtosters"
+        package="com.vtosters.android" />
+    <icon
+        drawable="@drawable/themed_icon_vtosters"
+        package="com.vtosters.lite" />
+    <icon
+        drawable="@drawable/themed_icon_exteragram"
+        package="com.exteragram.messenger" />
+    <icon
+        drawable="@drawable/themed_icon_exteragram"
+        package="com.exteragram.messenger.beta" />
+    <icon
+        drawable="@drawable/themed_icon_tinkoff"
+        package="com.idamob.tinkoff.android" />
+    <icon
+        drawable="@drawable/themed_icon_sber"
+        package="ru.sberbankmobile" />
+    <icon
+        drawable="@drawable/themed_icon_spotify"
+        package="com.spotify.music" />
+    <icon
+        drawable="@drawable/themed_icon_alfabank"
+        package="ru.alfabank.mobile.android" />
+    <icon
+        drawable="@drawable/themed_icon_qiwi"
+        package="ru.mw" />
+    <icon
+        drawable="@drawable/themed_icon_figma"
+        package="com.figma.mirror" />
+    <icon
+        drawable="@drawable/themed_icon_whatsapp"
+        package="com.whatsapp" />
+    <icon
+        drawable="@drawable/themed_icon_instagram"
+        package="com.instagram.android" />
+    <icon
+        drawable="@drawable/themed_icon_instagram"
+        package="com.instander.android" />
+    <icon
+        drawable="@drawable/themed_icon_instagram"
+        package="com.instagram.lite" />
+    <icon
+        drawable="@drawable/themed_icon_telegram"
+        package="org.telegram.messenger" />
+    <icon
+        drawable="@drawable/themed_icon_telegram"
+        package="org.telegram.messenger.beta" />
+    <icon
+        drawable="@drawable/themed_icon_tiktok"
+        package="com.zhiliaoapp.musically" />
+    <icon
+        drawable="@drawable/themed_icon_github"
+        package="com.github.android" />
+    <icon
+        drawable="@drawable/themed_icon_twitter"
+        package="com.twitter.android" />
+    <icon
+        drawable="@drawable/themed_icon_discord"
+        package="com.discord" />
+    <icon
+        drawable="@drawable/themed_icon_megafon"
+        package="ru.megafon.mlk" />
+    <icon
+        drawable="@drawable/themed_icon_magisk"
+        package="com.topjohnwu.magisk" />
+    <icon
+        drawable="@drawable/themed_icon_zenly"
+        package="app.zenly.locator" />
+    <icon
+        drawable="@drawable/themed_icon_mixplorer"
+        package="com.mixplorer" />
+    <icon
+        drawable="@drawable/themed_icon_earth"
+        package="com.google.earth" />
+    <icon
+        drawable="@drawable/themed_icon_fitbit"
+        package="com.fitbit.FitbitMobile" />
+    <icon
+        drawable="@drawable/themed_icon_admin"
+        package="com.google.android.apps.enterprise.cpanel" />
+    <icon
+        drawable="@drawable/themed_icon_nest"
+        package="com.nest.android" />
+    <icon
+        drawable="@drawable/themed_icon_voice"
+        package="com.google.android.apps.googlevoice" />
+    <icon
+        drawable="@drawable/themed_icon_youtube_music"
+        package="com.vanced.android.apps.youtube.music" />
+    <icon
+        drawable="@drawable/themed_icon_youtube"
+        package="com.vanced.android.youtube" />
+    <icon
+        drawable="@drawable/themed_icon_vkx"
+        package="ua.itaysonlab.vkx" />
+    <icon
+        drawable="@drawable/themed_icon_nekogram"
+        package="tw.nekomimi.nekogram" />
+    <icon
+        drawable="@drawable/themed_icon_nekogram"
+        package="nekox.messenger" />
+    <icon
+        drawable="@drawable/themed_icon_bitwarden"
+        package="com.x8bit.bitwarden" />
+    <icon
+        drawable="@drawable/themed_icon_gayshit"
+        package="com.miHoYo.GenshinImpact" />
+    <icon
+        drawable="@drawable/themed_icon_telegram"
+        package="org.thunderdog.challegram" />
+    <icon
+        drawable="@drawable/themed_icon_protonmail"
+        package="ch.protonmail.android" />
+    <icon
+        drawable="@drawable/themed_icon_reddit"
+        package="com.reddit.frontpage" />
+    <icon
+        drawable="@drawable/themed_icon_mosdnevnik"
+        package="mosreg.dnevnik.app" />
+    <icon
+        drawable="@drawable/themed_icon_yandex_eda"
+        package="ru.foodfox.client" />
+    <icon
+        drawable="@drawable/themed_icon_photomath"
+        package="com.microblink.photomath" />
+    <icon
+        drawable="@drawable/themed_icon_stepik"
+        package="org.stepic.droid" />
+    <icon
+        drawable="@drawable/themed_icon_wildberries"
+        package="com.wildberries.ru" />
+    <icon
+        drawable="@drawable/themed_icon_avito"
+        package="com.avito.android" />
+    <icon
+        drawable="@drawable/themed_icon_apple_music"
+        package="com.apple.android.music" />
+    <icon
+        drawable="@drawable/themed_icon_twitch"
+        package="tv.twitch.android.app" />
+    <icon
+        drawable="@drawable/themed_icon_yota"
+        package="ru.yota.android" />
+    <icon
+        drawable="@drawable/themed_icon_yandexgo"
+        package="ru.yandex.taxi" />
+    <icon
+        drawable="@drawable/themed_icon_yandex"
+        package="ru.yandex.searchplugin" />
+    <icon
+        drawable="@drawable/themed_icon_youla"
+        package="com.allgoritm.youla" />
+    <icon
+        drawable="@drawable/themed_icon_poweramp"
+        package="com.maxmpz.audioplayer" />
+    <icon
+        drawable="@drawable/themed_icon_mymts"
+        package="ru.mts.mymts" />
+    <icon
+        drawable="@drawable/themed_icon_2gis"
+        package="ru.dublgis.dgismobile" />
+    <icon
+        drawable="@drawable/themed_icon_spck"
+        package="io.spck" />
+    <icon
+        drawable="@drawable/themed_icon_4pda"
+        package="ru.fourpda.client" />
+    <icon
+        drawable="@drawable/themed_icon_ubrr"
+        package="cb.ibank" />
+    <icon
+        drawable="@drawable/themed_icon_tidal"
+        package="com.aspiro.tidal" />
+    <icon
+        drawable="@drawable/themed_icon_firefox"
+        package="org.mozilla.firefox" />
+    <icon
+        drawable="@drawable/themed_icon_termux"
+        package="com.termux" />
+</icons>
