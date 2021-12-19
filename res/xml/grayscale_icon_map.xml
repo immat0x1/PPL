@@ -387,4 +387,13 @@
     <icon
         drawable="@drawable/themed_icon_termux"
         package="com.termux" />
+    <icon
+        drawable="@drawable/themed_icon_facebook"
+        package="com.facebook.katana" />
+    <icon
+        drawable="@drawable/themed_icon_facebook_messenger"
+        package="com.facebook.orca" />
+    <icon
+        drawable="@drawable/themed_icon_delivery_club"
+        package="com.deliveryclub" />
 </icons>
