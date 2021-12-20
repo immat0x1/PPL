@@ -66,3 +66,6 @@ v2.0:
 • Delivery Club
 • Facebook
 • Facebook Messenger
+• MacDonald
+• Gosuslugi
+• AliExpress

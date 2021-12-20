@@ -396,4 +396,16 @@
     <icon
         drawable="@drawable/themed_icon_delivery_club"
         package="com.deliveryclub" />
+    <icon
+        drawable="@drawable/themed_icon_gosuslugi"
+        package="ru.rostel" />
+    <icon
+        drawable="@drawable/themed_icon_aliexpress"
+        package="ru.aliexpress.buyer" />
+    <icon
+        drawable="@drawable/themed_icon_aliexpress"
+        package="com.alibaba.aliexpresshd" />
+    <icon
+        drawable="@drawable/themed_icon_macdonald"
+        package="com.apegroup.mcdonaldsrussia" />
 </icons>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    android:height="@dimen/theme_icon_size"
+    android:width="@dimen/theme_icon_size"
+    android:viewportWidth="36.0"
+    android:viewportHeight="36.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M26.3333,14.6667C26.3333,16.8768 25.4554,18.9964 23.8926,20.5592C22.3298,22.122 20.2101,23 18,23C15.7899,23 13.6702,22.122 12.1074,20.5592C10.5446,18.9964 9.6667,16.8768 9.6667,14.6667"
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="1"
+        android:strokeLineJoin="1" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M10,9.25L26,9.25A5.75,5.75 0,0 1,31.75 15L31.75,26A5.75,5.75 0,0 1,26 31.75L10,31.75A5.75,5.75 0,0 1,4.25 26L4.25,15A5.75,5.75 0,0 1,10 9.25z"
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="2.0" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M10,4.25L26,4.25A5.75,5.75 0,0 1,31.75 10L31.75,26A5.75,5.75 0,0 1,26 31.75L10,31.75A5.75,5.75 0,0 1,4.25 26L4.25,10A5.75,5.75 0,0 1,10 4.25z"
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="2.0" />
+</vector>
