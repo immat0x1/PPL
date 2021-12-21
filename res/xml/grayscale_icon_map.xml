@@ -426,4 +426,7 @@
     <icon
         drawable="@drawable/themed_icon_yandex_maps"
         package="ru.yandex.yandexmaps" />
+    <icon
+        drawable="@drawable/themed_icon_sberzvuk"
+        package="com.zvooq.openplay" />
 </icons>
