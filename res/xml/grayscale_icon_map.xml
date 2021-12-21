@@ -352,7 +352,7 @@
         drawable="@drawable/themed_icon_yota"
         package="ru.yota.android" />
     <icon
-        drawable="@drawable/themed_icon_yandexgo"
+        drawable="@drawable/themed_icon_yandex_go"
         package="ru.yandex.taxi" />
     <icon
         drawable="@drawable/themed_icon_yandex"
