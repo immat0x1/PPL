@@ -78,3 +78,6 @@ v2.1:
 • VLC
 • SAI
 • Monobank
+• Graph Messenger
+• Yandex Maps
+•
