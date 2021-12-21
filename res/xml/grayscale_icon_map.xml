@@ -408,4 +408,16 @@
     <icon
         drawable="@drawable/themed_icon_macdonald"
         package="com.apegroup.mcdonaldsrussia" />
+    <icon
+        drawable="@drawable/themed_icon_okko"
+        package="ru.more.play" />
+    <icon
+        drawable="@drawable/themed_icon_vlc"
+        package="org.videolan.vlc" />
+    <icon
+        drawable="@drawable/themed_icon_monobank"
+        package="com.ftband.mono" />
+    <icon
+        drawable="@drawable/themed_icon_sai"
+        package="com.aefyr.sai" />
 </icons>

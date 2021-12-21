@@ -69,3 +69,9 @@ v2.0:
 • MacDonald
 • Gosuslugi
 • AliExpress
+
+v2.1:
+• Okko
+• VLC
+• SAI
+• Monobank
