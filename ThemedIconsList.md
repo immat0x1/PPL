@@ -22,6 +22,7 @@ v1:
 • Zenly
 • MiXplorer
 • Google Classroom (Moved from December Launcher)
+•
 
 
 
@@ -33,6 +34,7 @@ v1.2:
 • Google Voice (Moved from A12L Launcher)
 • YouTube Vanced
 • YouTube Music Vanced
+•
 
 
 v2.0:
@@ -69,6 +71,7 @@ v2.0:
 • MacDonald
 • Gosuslugi
 • AliExpress
+•
 
 v2.1:
 • Okko
