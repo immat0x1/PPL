@@ -199,6 +199,9 @@
         drawable="@drawable/themed_icon_camera"
         package="com.android.MGC.not.stable" />
     <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.GoogleCamera.Burial18" />
+    <icon
         drawable="@drawable/themed_icon_chrome"
         package="com.chrome.canary" />
     <icon
