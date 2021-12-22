@@ -453,4 +453,7 @@
     <icon
         drawable="@drawable/themed_icon_poweramp"
         package="gpm.tnt_premier" />
+    <icon
+        drawable="@drawable/themed_fenrir_vk"
+        package="dev.ragnarok.fenrir" />
 </icons>
