@@ -86,5 +86,6 @@ v2.1:
 • Tachiyomi
 • HD VideoBox
 • TNT Premier
+• Fenrir VK
 •
 
