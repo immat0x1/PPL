@@ -442,6 +442,9 @@
         drawable="@drawable/themed_icon_anixart"
         package="com.swiftsoft.anixartd" />
     <icon
+        drawable="@drawable/themed_icon_anixart"
+        package="com.swiftsoft.anixartl" />
+    <icon
         drawable="@drawable/themed_icon_vivaldi"
         package="com.vivaldi.browser" />
     <icon
