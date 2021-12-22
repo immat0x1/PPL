@@ -454,6 +454,21 @@
         drawable="@drawable/themed_icon_poweramp"
         package="gpm.tnt_premier" />
     <icon
-        drawable="@drawable/themed_icon_fenrir_vk"
+        drawable="@drawable/themed_fenrir_vk"
         package="dev.ragnarok.fenrir" />
+    <icon
+        drawable="@drawable/themed_icon_zarchiver"
+        package="ru.zdevs.zarchiver" />
+    <icon
+        drawable="@drawable/themed_icon_yandex_music"
+        package="ru.yandex.music" />
+    <icon
+        drawable="@drawable/themed_icon_odnoklassniki"
+        package="ru.ok.android" />
+    <icon
+        drawable="@drawable/themed_icon_viber"
+        package="com.viber.voip" />
+    <icon
+        drawable="@drawable/themed_icon_mailru"
+        package="ru.mail.mailapp" />
 </icons>

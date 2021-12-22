@@ -24,8 +24,6 @@ v1:
 • Google Classroom (Moved from December Launcher)
 •
 
-
-
 v1.2:
 • Google Nest (Moved from A12L Launcher)
 • Google Earth (Moved from A12L Launcher) (Not showing now, blame Google)
@@ -35,7 +33,6 @@ v1.2:
 • YouTube Vanced
 • YouTube Music Vanced
 •
-
 
 v2.0:
 • Nekogram & Nekogram X (Exclusive icon!)
@@ -87,5 +84,9 @@ v2.1:
 • HD VideoBox
 • TNT Premier
 • Fenrir VK
+• Viber
+• Odnoklassniki
+• Yandex Music
+• Mail.ru
+• ZArchiver
 •
-
