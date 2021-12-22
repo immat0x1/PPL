@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <vector
-    android:height="192.0dp"
-    android:width="192.0dp"
-    android:viewportWidth="192.0"
-    android:viewportHeight="192.0"
+    android:height="@dimen/theme_icon_size"
+    android:width="@dimen/theme_icon_size"
+    android:viewportWidth="36.0"
+    android:viewportHeight="36.0"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <path
         android:fillColor="@android:color/white"
-        android:pathData="M96,32.6L64,68.1l32,35.5l32-35.5L96,32.6z" />
+        android:pathData="M23.6671 14.6657L18.0009 20.3331L12.3335 14.6657L18.0009 9.0007L23.6671 14.6657Z" />
     <path
         android:fillColor="@android:color/white"
-        android:pathData="M96,103.6l-32,35.5l32,35.5l32-35.5L96,103.6z" />
+        android:pathData="M23.6671 25.9998L18.0009 31.6672L12.3335 25.9998L18.0009 20.3324L23.6671 25.9998Z" />
     <path
         android:fillColor="@android:color/white"
-        android:pathData="M32,32.6L0,68.1l32,35.5l32-35.5L32,32.6z" />
+        android:pathData="M12.3336 14.6662L6.66621 20.3336L1 14.6662L6.66621 9L12.3336 14.6662Z" />
     <path
         android:fillColor="@android:color/white"
-        android:pathData="M160,32.6l-32,35.5l32,35.5l32-35.5L160,32.6z" />
+        android:pathData="M35 14.6662L29.3338 20.3336L23.6664 14.6662L29.3338 9L35 14.6662Z" />
 </vector>
