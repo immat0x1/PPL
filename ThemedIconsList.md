@@ -80,4 +80,11 @@ v2.1:
 • Monobank
 • Graph Messenger
 • Yandex Maps
+• Vivaldi Browser (Snapshot)
+• ivi
+• Anixart
+• Tachiyomi
+• HD VideoBox
+• TNT Premier
 •
+

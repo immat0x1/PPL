@@ -429,4 +429,25 @@
     <icon
         drawable="@drawable/themed_icon_yandex_maps"
         package="ru.yandex.yandexmaps" />
+    <icon
+        drawable="@drawable/themed_icon_hdvideobox"
+        package="dkc.video.hdbox" />
+    <icon
+        drawable="@drawable/themed_icon_ivi"
+        package="ru.ivi.client" />
+    <icon
+        drawable="@drawable/themed_icon_tachiyomi"
+        package="eu.kanade.tachiyomi.j2k" />
+    <icon
+        drawable="@drawable/themed_icon_anixart"
+        package="com.swiftsoft.anixartd" />
+    <icon
+        drawable="@drawable/themed_icon_vivaldi"
+        package="com.vivaldi.browser" />
+    <icon
+        drawable="@drawable/themed_icon_vivaldi"
+        package="com.vivaldi.browser.snapshot" />
+    <icon
+        drawable="@drawable/themed_icon_poweramp"
+        package="gpm.tnt_premier" />
 </icons>
