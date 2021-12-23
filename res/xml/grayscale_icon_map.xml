@@ -477,4 +477,25 @@
     <icon
         drawable="@drawable/themed_icon_snapchat"
         package="com.snapchat.android" />
+    <icon
+        drawable="@drawable/themed_icon_asos"
+        package="com.asos.app" />
+    <icon
+        drawable="@drawable/themed_icon_pinterest"
+        package="com.pinterest" />
+    <icon
+        drawable="@drawable/themed_icon_lamoda"
+        package="com.lamoda.lite" />
+    <icon
+        drawable="@drawable/themed_icon_brawl_stars"
+        package="com.supercell.brawlstars" />
+    <icon
+        drawable="@drawable/themed_icon_yandex_translate"
+        package="ru.yandex.translate" />
+    <icon
+        drawable="@drawable/themed_icon_zara"
+        package="com.inditex.zara" />
+    <icon
+        drawable="@drawable/themed_icon_termius"
+        package="com.server.auditor.ssh.client" />
 </icons>

@@ -94,4 +94,11 @@ v2.1:
 v2.2:
 • Snapchat
 • Deezer
-• 
+• Zara
+• Asos
+• Lamoda
+• Yandex Translate
+• Termius
+• Brawl Stars
+• Pinterest
+•
