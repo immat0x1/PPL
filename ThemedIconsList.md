@@ -92,6 +92,6 @@ v2.1:
 •
 
 v2.2:
-•
-•
-•
+• Snapchat
+• Deezer
+• 

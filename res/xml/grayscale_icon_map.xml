@@ -471,4 +471,10 @@
     <icon
         drawable="@drawable/themed_icon_mailru"
         package="ru.mail.mailapp" />
+    <icon
+        drawable="@drawable/themed_icon_deezer"
+        package="deezer.android.app" />
+    <icon
+        drawable="@drawable/themed_icon_snapchat"
+        package="com.snapchat.android" />
 </icons>
