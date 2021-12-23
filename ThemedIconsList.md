@@ -90,3 +90,8 @@ v2.1:
 • Mail.ru
 • ZArchiver
 •
+
+v2.2:
+•
+•
+•
