@@ -9,3 +9,5 @@
 • Durak Online
 • Google Earth
 • Google Admin
+• Yandex Navigator
+•
