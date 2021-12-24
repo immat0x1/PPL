@@ -477,4 +477,10 @@
     <icon
         drawable="@drawable/themed_icon_snapchat"
         package="com.snapchat.android" />
+    <icon
+        drawable="@drawable/themed_icon_swift_backup"
+        package="org.swiftapps.swiftbackup" />
+    <icon
+        drawable="@drawable/themed_icon_solid_explorer"
+        package="pl.solidexplorer2" />
 </icons>
