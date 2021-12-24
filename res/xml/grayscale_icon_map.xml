@@ -504,4 +504,7 @@
     <icon
         drawable="@drawable/themed_icon_solid_explorer"
         package="pl.solidexplorer2" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.MGC_8_4_300" />
 </icons>
