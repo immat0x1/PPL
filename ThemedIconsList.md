@@ -27,7 +27,7 @@ v1:
 v1.2:
 • Google Nest (Moved from A12L Launcher)
 • Google Earth (Moved from A12L Launcher) (Not showing now, blame Google)
-• Google FitBit (Moved from A12L Launcher) 
+• Google FitBit (Moved from A12L Launcher)
 • Google Admin (Moved from A12L Launcher) (Not showing now, blame Google)
 • Google Voice (Moved from A12L Launcher)
 • YouTube Vanced
@@ -94,6 +94,13 @@ v2.1:
 v2.2:
 • Snapchat
 • Deezer
+• Zara
+• Asos
+• Lamoda
+• Yandex Translate
+• Termius
+• Brawl Stars
+• Pinterest
 • Swift Backup
 • Solid Explorer
 •
