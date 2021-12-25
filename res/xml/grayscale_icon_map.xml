@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+s<?xml version="1.0" encoding="utf-8"?>
 <icons>
     <icon
         drawable="@drawable/themed_icon_android_auto"
@@ -231,6 +231,9 @@
     <icon
         drawable="@drawable/themed_icon_spotify"
         package="com.spotify.music" />
+    <icon
+        drawable="@drawable/themed_icon_spotify"
+        package="com.spotify.lite" />
     <icon
         drawable="@drawable/themed_icon_alfabank"
         package="ru.alfabank.mobile.android" />
