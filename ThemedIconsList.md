@@ -105,4 +105,6 @@ v2.2:
 • Solid Explorer
 • PayPal
 • Netflix
+• LinkedIn
+• Gallery Go
 •
