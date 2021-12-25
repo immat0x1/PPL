@@ -519,4 +519,7 @@
     <icon
         drawable="@drawable/themed_icon_gallery_go"
         package="com.google.android.apps.photosgo" />
+    <icon
+        drawable="@drawable/themed_icon_yandex_market"
+        package="ru.beru.android" />
 </icons>
