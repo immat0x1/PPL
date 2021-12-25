@@ -107,5 +107,4 @@ v2.2:
 • Netflix
 • LinkedIn
 • Gallery Go
-• Yandex Market
 •
