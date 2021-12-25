@@ -103,4 +103,6 @@ v2.2:
 • Pinterest
 • Swift Backup
 • Solid Explorer
+• PayPal
+• Netflix
 •

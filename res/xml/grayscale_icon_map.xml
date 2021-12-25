@@ -507,4 +507,10 @@
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.android.MGC_8_4_300" />
+    <icon
+        drawable="@drawable/themed_icon_paypal"
+        package="com.paypal.android.p2pmobile" />
+    <icon
+        drawable="@drawable/themed_icon_netflix"
+        package="com.netflix.mediaclient" />
 </icons>
