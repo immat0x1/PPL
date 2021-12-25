@@ -12,4 +12,5 @@
 • Yandex Navigator
 • ApkTool M
 • VK Coffee
+• Steam
 •
