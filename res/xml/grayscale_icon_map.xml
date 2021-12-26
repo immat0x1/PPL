@@ -522,4 +522,34 @@ s<?xml version="1.0" encoding="utf-8"?>
     <icon
         drawable="@drawable/themed_icon_gallery_go"
         package="com.google.android.apps.photosgo" />
+    <icon
+        drawable="@drawable/themed_icon_yoomoney"
+        package="ru.yoo.money" />
+    <icon
+        drawable="@drawable/themed_icon_magnit"
+        package="ru.tander.magnit" />
+    <icon
+        drawable="@drawable/themed_icon_pyaterochka"
+        package="pyaterochka.app" />
+    <icon
+        drawable="@drawable/themed_icon_yandex_market"
+        package="ru.beru.android" />
+    <icon
+        drawable="@drawable/themed_icon_signal"
+        package="org.thoughtcrime.securesms" />
+    <icon
+        drawable="@drawable/themed_icon_poweramp"
+        package="com.mxtech.videoplayer.ad" />
+    <icon
+        drawable="@drawable/themed_icon_poweramp"
+        package="com.mxtech.videoplayer.pro" />
+    <icon
+        drawable="@drawable/themed_icon_movily"
+        package="app.movily.mobile" />
+    <icon
+        drawable="@drawable/themed_icon_medium"
+        package="com.medium.reader" />
+    <icon
+        drawable="@drawable/themed_icon_4pda"
+        package="ru.forpdateam.forpda" />
 </icons>

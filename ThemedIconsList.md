@@ -107,4 +107,13 @@ v2.2:
 • Netflix
 • LinkedIn
 • Gallery Go
+• Magnit
+• Pyaterochka
+• ForPDA
+• Medium
+• MX Player
+• Signal
+• Yandex Market
+• YooMoney
+• Movily
 •
