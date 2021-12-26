@@ -116,4 +116,7 @@ v2.2:
 • Yandex Market
 • YooMoney
 • Movily
+• Duolingo
+• 1.1.1.1
+• LitRes
 •

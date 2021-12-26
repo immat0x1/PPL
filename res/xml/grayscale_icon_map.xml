@@ -552,4 +552,13 @@
     <icon
         drawable="@drawable/themed_icon_4pda"
         package="ru.forpdateam.forpda" />
+    <icon
+        drawable="@drawable/themed_icon_1111"
+        package="com.cloudflare.onedotonedotonedotone" />
+    <icon
+        drawable="@drawable/themed_icon_duolingo"
+        package="com.duolingo" />
+    <icon
+        drawable="@drawable/themed_icon_litres"
+        package="ru.litres.android" />
 </icons>
