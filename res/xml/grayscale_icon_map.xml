@@ -576,4 +576,7 @@
     <icon
         drawable="@drawable/themed_icon_m8"
         package="bz.zaa.mibudsm8" />
+    <icon
+        drawable="@drawable/themed_icon_wallet"
+        package="ru.cardsmobile.mw3" />
 </icons>

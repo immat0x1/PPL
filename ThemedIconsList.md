@@ -124,4 +124,5 @@ v2.2:
 • LSPosed Manager
 • FastHub
 • Mi Buds M8
-•
+• Wallet
+• 
