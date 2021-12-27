@@ -579,4 +579,7 @@
     <icon
         drawable="@drawable/themed_icon_wallet"
         package="ru.cardsmobile.mw3" />
+    <icon
+        drawable="@drawable/themed_icon_uber"
+        package="ru.yandex.uber" />
 </icons>

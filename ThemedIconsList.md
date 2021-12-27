@@ -125,4 +125,5 @@ v2.2:
 • FastHub
 • Mi Buds M8
 • Wallet
-• 
+• Uber Russia 
+•
