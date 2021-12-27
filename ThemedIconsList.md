@@ -126,4 +126,5 @@ v2.2:
 • Mi Buds M8
 • Wallet
 • Uber Russia 
+• Telegram from official site
 •

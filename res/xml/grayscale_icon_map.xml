@@ -262,6 +262,9 @@
         drawable="@drawable/themed_icon_telegram"
         package="org.telegram.messenger.beta" />
     <icon
+        drawable="@drawable/themed_icon_telegram"
+        package="org.telegram.messenger.web" />
+    <icon
         drawable="@drawable/themed_icon_tiktok"
         package="com.zhiliaoapp.musically" />
     <icon
