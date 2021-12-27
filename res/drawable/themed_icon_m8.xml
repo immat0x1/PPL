@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    android:height="@dimen/theme_icon_size"
+    android:width="@dimen/theme_icon_size"
+    android:viewportWidth="36.0"
+    android:viewportHeight="36.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M3.5,11.2c-0.3-0.5-0.8-0.7-1.2-0.5l-0.8,0.5c-1,0.6-1.6,2.2-0.9,3.6l1.3,2.2c1,1.2,2.7,1.5,3.6,0.9l0.8-0.5
+      		c0.4-0.2,0.5-0.8,0.2-1.3L3.5,11.2z" />
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M15.1,8.1c-0.7-1.6-2.1-2.7-4.8-2.7c-1.1,0-2.1,0.3-3,0.9c-1.6,1-2.8,2.7-3.1,4.6c0,0.2,0,0.5,0.1,0.7l2.2,3.6
+      		c0.2,0.3,0.6,0.5,1,0.5h3.1c0.5,0,0.9,0.4,0.9,0.9v7.5c0,1.2,1,2.1,2.1,2.1s2.1-1,2.1-2.1l0-11.1C15.8,13,15.8,9.7,15.1,8.1z" />
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M34.6,15.6l-0.8-0.5c-0.4-0.2-0.9,0-1.2,0.5l-3,4.9c-0.3,0.5-0.2,1.1,0.2,1.3l0.8,0.5c1,0.6,2.7,0.3,3.6-0.9l1.3-2.2
+      		C36.1,17.8,35.5,16.2,34.6,15.6z" />
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M31.7,15.2c-0.3-2-1.5-3.6-3.1-4.6c-0.9-0.5-1.9-0.9-3-0.9c-2.7,0-4.1,1.1-4.8,2.7c-0.7,1.6-0.7,4.9-0.7,4.9l0,11.1
+      		c0,1.2,1,2.1,2.1,2.1c1.2,0,2.1-1,2.1-2.1v-7.5c0-0.5,0.4-0.9,0.9-0.9h3.1c0.4,0,0.8-0.2,1-0.5l2.2-3.6
+      		C31.7,15.7,31.7,15.5,31.7,15.2z" />
+</vector>

@@ -123,4 +123,5 @@ v2.2:
 • NewPipe
 • LSPosed Manager
 • FastHub
+• Mi Buds M8
 •

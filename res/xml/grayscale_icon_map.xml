@@ -568,9 +568,12 @@
         drawable="@drawable/themed_icon_newpipe"
         package="org.schabi.newpipe" />
     <icon
-        drawable="@drawable/themed_icon_lsposes"
+        drawable="@drawable/themed_icon_lsposed"
         package="org.lsposed.manager" />
     <icon
         drawable="@drawable/themed_icon_fasthub"
         package="com.fastaccess.github" />
+    <icon
+        drawable="@drawable/themed_icon_m8"
+        package="bz.zaa.mibudsm8" />
 </icons>
