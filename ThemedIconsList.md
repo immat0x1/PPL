@@ -119,4 +119,8 @@ v2.2:
 • Duolingo
 • 1.1.1.1
 • LitRes
+• Storytel
+• NewPipe
+• LSPosed Manager
+• FastHub
 •

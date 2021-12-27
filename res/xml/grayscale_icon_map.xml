@@ -561,4 +561,16 @@
     <icon
         drawable="@drawable/themed_icon_litres"
         package="ru.litres.android" />
+    <icon
+        drawable="@drawable/themed_icon_storytel"
+        package="grit.storytel.app" />
+    <icon
+        drawable="@drawable/themed_icon_newpipe"
+        package="org.schabi.newpipe" />
+    <icon
+        drawable="@drawable/themed_icon_lsposes"
+        package="org.lsposed.manager" />
+    <icon
+        drawable="@drawable/themed_icon_fasthub"
+        package="com.fastaccess.github" />
 </icons>
