@@ -591,4 +591,16 @@
     <icon
         drawable="@drawable/themed_icon_raifaisenbank"
         package="ru.raiffeisennews" />
+    <icon
+        drawable="@drawable/themed_icon_trello"
+        package="com.trello" />
+    <icon
+        drawable="@drawable/themed_icon_mail"
+        package="ru.yandex.mail" />
+    <icon
+        drawable="@drawable/themed_icon_wavelet"
+        package="com.pittvandewitt.wavelet" />
+    <icon
+        drawable="@drawable/themed_icon_mail"
+        package="com.vk.mail" />
 </icons>
