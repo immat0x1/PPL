@@ -598,6 +598,9 @@
         drawable="@drawable/themed_icon_mail"
         package="ru.yandex.mail" />
     <icon
+        drawable="@drawable/themed_icon_mail"
+        package="ru.yandex.mail.beta" />
+    <icon
         drawable="@drawable/themed_icon_wavelet"
         package="com.pittvandewitt.wavelet" />
     <icon

@@ -129,7 +129,7 @@ v2.2:
 • Raifaisen Bank
 • Tochka Bank
 • Mi Fit
-• Yandex Mail & VK Mail
+• Yandex Mail & Yandex Mail Beta & VK Mail
 • Trello
 • Wavelet
-•
+• 
