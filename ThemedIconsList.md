@@ -6,10 +6,10 @@ v1:
 • Tinkoff
 • Sova V RE, Original VK
 • VTosters & VTosters Lite
-• Sberbank
+• Sber Bank
 • Google Pay
 • Spotify
-• Alfa-Bank
+• Alfa Bank
 • QIWI
 • Figma
 • Instagram & Instander & Instagram Lite
@@ -126,4 +126,7 @@ v2.2:
 • Mi Buds M8
 • Wallet
 • Uber Russia 
+• Raifaisen Bank
+• Tochka Bank
+• Mi Fit
 •

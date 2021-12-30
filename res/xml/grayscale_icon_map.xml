@@ -582,4 +582,13 @@
     <icon
         drawable="@drawable/themed_icon_uber"
         package="ru.yandex.uber" />
+    <icon
+        drawable="@drawable/themed_icon_mifit"
+        package="com.xiaomi.hm.health" />
+    <icon
+        drawable="@drawable/themed_icon_tochka"
+        package="ru.zhuck.webapp" />
+    <icon
+        drawable="@drawable/themed_icon_raifaisenbank"
+        package="ru.raiffeisennews" />
 </icons>
