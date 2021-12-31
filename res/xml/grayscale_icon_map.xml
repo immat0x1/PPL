@@ -202,6 +202,9 @@
         drawable="@drawable/themed_icon_camera"
         package="com.GoogleCamera.Burial18" />
     <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.GoogleCamera.Burial" />
+    <icon
         drawable="@drawable/themed_icon_chrome"
         package="com.chrome.canary" />
     <icon
@@ -579,6 +582,9 @@
     <icon
         drawable="@drawable/themed_icon_wallet"
         package="ru.cardsmobile.mw3" />
+    <icon
+        drawable="@drawable/themed_icon_wallet"
+        package="ru.cardsmobile.mw3.splash.StartActivity" />
     <icon
         drawable="@drawable/themed_icon_uber"
         package="ru.yandex.uber" />
