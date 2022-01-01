@@ -358,6 +358,9 @@
         drawable="@drawable/themed_icon_twitch"
         package="tv.twitch.android.app" />
     <icon
+        drawable="@drawable/themed_icon_twitch"
+        package="tv.twitchmod.android.app" />
+    <icon
         drawable="@drawable/themed_icon_yota"
         package="ru.yota.android" />
     <icon
