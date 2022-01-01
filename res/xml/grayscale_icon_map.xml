@@ -289,6 +289,9 @@
         drawable="@drawable/themed_icon_mixplorer"
         package="com.mixplorer" />
     <icon
+        drawable="@drawable/themed_icon_mixplorer"
+        package="com.mixplorer.silver" />
+    <icon
         drawable="@drawable/themed_icon_earth"
         package="com.google.earth" />
     <icon
