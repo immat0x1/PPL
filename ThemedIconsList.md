@@ -132,4 +132,7 @@ v2.2:
 • Yandex Mail & Yandex Mail Beta & VK Mail
 • Trello
 • Wavelet
-• 
+• Russian Post
+• Kinopoisk
+• Kinorium
+•

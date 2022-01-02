@@ -618,4 +618,13 @@
     <icon
         drawable="@drawable/themed_icon_mail"
         package="com.vk.mail" />
+    <icon
+        drawable="@drawable/themed_icon_kinopoisk"
+        package="ru.kinopoisk" />
+    <icon
+        drawable="@drawable/themed_icon_russian_post"
+        package="com.octopod.russianpost.client.android" />
+    <icon
+        drawable="@drawable/themed_icon_kinorium"
+        package="com.kinorium.kinoriumapp" />
 </icons>
