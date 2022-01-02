@@ -627,4 +627,10 @@
     <icon
         drawable="@drawable/themed_icon_kinorium"
         package="com.kinorium.kinoriumapp" />
+    <icon
+        drawable="@drawable/themed_icon_vtb"
+        package="ru.vtb24.mobilebanking.android" />
+    <icon
+        drawable="@drawable/themed_icon_yandex_browser"
+        package="com.yandex.browser" />
 </icons>

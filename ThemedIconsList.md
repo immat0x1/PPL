@@ -135,4 +135,6 @@ v2.2:
 • Russian Post
 • Kinopoisk
 • Kinorium
+• VTB Bank
+• Yandex Browser
 •
