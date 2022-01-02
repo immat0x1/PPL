@@ -194,6 +194,12 @@
         package="com.samsung.android.ruler" />
     <icon
         drawable="@drawable/themed_icon_camera"
+        package="com.samsung.android.scan3d" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.samsung.android.biometrics.service" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
         package="net.sourceforge.opencamera" />
     <icon
         drawable="@drawable/themed_icon_camera"
@@ -204,6 +210,15 @@
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.GoogleCamera.Burial" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.googleCamera.Wichaya8" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.google.android.GoogleCamera.Cameight" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="org.codeaurora.qcamera3" />
     <icon
         drawable="@drawable/themed_icon_chrome"
         package="com.chrome.canary" />
