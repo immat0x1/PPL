@@ -16,4 +16,5 @@
 • Telegram from Official Site
 • VK Admin
 • Brave Browser
+• Binance
 •

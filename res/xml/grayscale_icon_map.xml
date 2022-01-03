@@ -648,4 +648,7 @@
     <icon
         drawable="@drawable/themed_icon_yandex_browser"
         package="com.yandex.browser" />
+    <icon
+        drawable="@drawable/themed_icon_bablkwas"
+        package="com.ZtepGC.BubbleKvass" />
 </icons>
