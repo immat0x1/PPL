@@ -138,3 +138,10 @@ v2.2:
 • VTB Bank
 • Yandex Browser
 •
+
+v2.3:
+• Kaspi KZ
+•
+•
+•
+•

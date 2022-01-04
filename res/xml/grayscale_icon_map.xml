@@ -220,6 +220,12 @@
         drawable="@drawable/themed_icon_camera"
         package="org.codeaurora.qcamera3" />
     <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.GoogleCamera.Burial11" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.google.android.GoogleCamera.Urnyx" />
+    <icon
         drawable="@drawable/themed_icon_chrome"
         package="com.chrome.canary" />
     <icon
@@ -651,4 +657,7 @@
     <icon
         drawable="@drawable/themed_icon_bablkwas"
         package="com.ZtepGC.BubbleKvass" />
+    <icon
+        drawable="@drawable/themed_icon_kaspi_kz"
+        package="kz.kaspi.mobile" />
 </icons>
