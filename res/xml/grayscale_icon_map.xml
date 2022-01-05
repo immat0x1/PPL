@@ -660,4 +660,10 @@
     <icon
         drawable="@drawable/themed_icon_kaspi_kz"
         package="kz.kaspi.mobile" />
+    <icon
+        drawable="@drawable/themed_icon_flamingo"
+        package="com.samruston.twitter" />
+    <icon
+        drawable="@drawable/themed_icon_plus_messenger"
+        package="org.telegram.plus" />
 </icons>

@@ -141,7 +141,6 @@ v2.2:
 
 v2.3:
 • Kaspi KZ
-•
-•
-•
+• Flamingo
+• Plus Messenger
 •
