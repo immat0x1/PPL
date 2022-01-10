@@ -666,4 +666,16 @@
     <icon
         drawable="@drawable/themed_icon_plus_messenger"
         package="org.telegram.plus" />
+    <icon
+        drawable="@drawable/themed_icon_yasnac"
+        package="rikka.safetynetchecker" />
+    <icon
+        drawable="@drawable/themed_icon_material_files"
+        package="me.zhanghai.android.files" />
+    <icon
+        drawable="@drawable/themed_icon_quickpass"
+        package="com.mikhailgrigorev.quickpass" />
+    <icon
+        drawable="@drawable/themed_icon_spark"
+        package="com.readdle.spark" />
 </icons>

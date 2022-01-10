@@ -143,4 +143,8 @@ v2.3:
 • Kaspi KZ
 • Flamingo
 • Plus Messenger
+• YASNAC
+• Material Files
+• QuickPass
+• Spark
 •
