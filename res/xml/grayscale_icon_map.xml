@@ -678,4 +678,7 @@
     <icon
         drawable="@drawable/themed_icon_spark"
         package="com.readdle.spark" />
+    <icon
+        drawable="@drawable/themed_icon_find_my_device"
+        package="com.google.android.apps.adm" />
 </icons>
