@@ -151,4 +151,6 @@ v2.3:
 • Repainter
 • Catogram & Catogram X
 • eReader Prestigio
+• Opera
+• Opera GX
 •

@@ -696,4 +696,10 @@
     <icon
         drawable="@drawable/themed_icon_catogram"
         package="org.nift4.catox" />
+    <icon
+        drawable="@drawable/themed_icon_opera_browser"
+        package="com.opera.browser" />
+    <icon
+        drawable="@drawable/themed_icon_opera_gx_browser"
+        package="com.opera.gx" />
 </icons>
