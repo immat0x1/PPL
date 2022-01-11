@@ -616,7 +616,7 @@
         drawable="@drawable/themed_icon_uber"
         package="ru.yandex.uber" />
     <icon
-        drawable="@drawable/themed_icon_mifit"
+        drawable="@drawable/themed_icon_mi_fit"
         package="com.xiaomi.hm.health" />
     <icon
         drawable="@drawable/themed_icon_tochka"
@@ -708,4 +708,7 @@
     <icon
         drawable="@drawable/themed_icon_headset"
         package="com.sony.songpal.mdr" />
+    <icon
+        drawable="@drawable/themed_icon_terraria"
+        package="com.and.games505.TerrariaPaid" />
 </icons>

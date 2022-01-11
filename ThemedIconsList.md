@@ -155,4 +155,5 @@ v2.3:
 • Opera GX
 • Pomodo
 • Sony Headphones Connect
+• Terraria
 •
