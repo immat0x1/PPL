@@ -589,7 +589,7 @@
         drawable="@drawable/themed_icon_duolingo"
         package="com.duolingo" />
     <icon
-        drawable="@drawable/themed_icon_litres"
+        drawable="@drawable/themed_icon_book"
         package="ru.litres.android" />
     <icon
         drawable="@drawable/themed_icon_storytel"
@@ -681,4 +681,19 @@
     <icon
         drawable="@drawable/themed_icon_find_my_device"
         package="com.google.android.apps.adm" />
+    <icon
+        drawable="@drawable/themed_icon_diia"
+        package="ua.gov.diia.app" />
+    <icon
+        drawable="@drawable/themed_icon_repainter"
+        package="dev.kdrag0n.dyntheme" />
+    <icon
+        drawable="@drawable/themed_icon_book"
+        package="com.prestigio.ereader" />
+    <icon
+        drawable="@drawable/themed_icon_catogram"
+        package="ua.itaysonlab.messenger" />
+    <icon
+        drawable="@drawable/themed_icon_catogram"
+        package="org.nift4.catox" />
 </icons>

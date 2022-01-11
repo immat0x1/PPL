@@ -147,4 +147,8 @@ v2.3:
 • Material Files
 • QuickPass
 • Spark
+• Diia Bank
+• Repainter
+• Catogram & Catogram X
+• eReader Prestigio
 •
