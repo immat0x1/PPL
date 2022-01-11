@@ -154,4 +154,5 @@ v2.3:
 • Opera
 • Opera GX
 • Pomodo
+• Sony Headphones Connect
 •

@@ -705,4 +705,7 @@
     <icon
         drawable="@drawable/themed_icon_pomodo"
         package="com.ngalamsoftware.pomodo" />
+    <icon
+        drawable="@drawable/themed_icon_headset"
+        package="com.sony.songpal.mdr" />
 </icons>
