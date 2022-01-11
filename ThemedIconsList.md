@@ -153,4 +153,5 @@ v2.3:
 • eReader Prestigio
 • Opera
 • Opera GX
+• Pomodo
 •

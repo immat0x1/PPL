@@ -702,4 +702,7 @@
     <icon
         drawable="@drawable/themed_icon_opera_gx_browser"
         package="com.opera.gx" />
+    <icon
+        drawable="@drawable/themed_icon_pomodo"
+        package="com.ngalamsoftware.pomodo" />
 </icons>
