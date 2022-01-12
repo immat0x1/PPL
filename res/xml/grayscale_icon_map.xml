@@ -247,7 +247,7 @@
         drawable="@drawable/themed_icon_exteragram"
         package="com.exteragram.messenger.beta" />
     <icon
-        drawable="@drawable/themed_icon_tinkoff"
+        drawable="@drawable/themed_icon_tinkoff_bank"
         package="com.idamob.tinkoff.android" />
     <icon
         drawable="@drawable/themed_icon_sber"
@@ -259,7 +259,7 @@
         drawable="@drawable/themed_icon_spotify"
         package="com.spotify.lite" />
     <icon
-        drawable="@drawable/themed_icon_alfabank"
+        drawable="@drawable/themed_icon_alfa_bank"
         package="ru.alfabank.mobile.android" />
     <icon
         drawable="@drawable/themed_icon_qiwi"
@@ -451,7 +451,7 @@
         drawable="@drawable/themed_icon_vlc"
         package="org.videolan.vlc" />
     <icon
-        drawable="@drawable/themed_icon_monobank"
+        drawable="@drawable/themed_icon_mono_bank"
         package="com.ftband.mono" />
     <icon
         drawable="@drawable/themed_icon_sai"
@@ -502,7 +502,7 @@
         drawable="@drawable/themed_icon_viber"
         package="com.viber.voip" />
     <icon
-        drawable="@drawable/themed_icon_mailru"
+        drawable="@drawable/themed_icon_mail_ru"
         package="ru.mail.mailapp" />
     <icon
         drawable="@drawable/themed_icon_deezer"
@@ -619,10 +619,10 @@
         drawable="@drawable/themed_icon_mi_fit"
         package="com.xiaomi.hm.health" />
     <icon
-        drawable="@drawable/themed_icon_tochka"
+        drawable="@drawable/themed_icon_tochka_bank"
         package="ru.zhuck.webapp" />
     <icon
-        drawable="@drawable/themed_icon_raifaisenbank"
+        drawable="@drawable/themed_icon_raifaisen_bank"
         package="ru.raiffeisennews" />
     <icon
         drawable="@drawable/themed_icon_trello"
@@ -655,7 +655,7 @@
         drawable="@drawable/themed_icon_yandex_browser"
         package="com.yandex.browser" />
     <icon
-        drawable="@drawable/themed_icon_bablkwas"
+        drawable="@drawable/themed_icon_babl_kwas"
         package="com.ZtepGC.BubbleKvass" />
     <icon
         drawable="@drawable/themed_icon_kaspi_kz"
@@ -711,4 +711,7 @@
     <icon
         drawable="@drawable/themed_icon_terraria"
         package="com.and.games505.TerrariaPaid" />
+    <icon
+        drawable="@drawable/themed_icon_adm"
+        package="com.dv.adm" />
 </icons>
