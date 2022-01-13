@@ -714,4 +714,31 @@
     <icon
         drawable="@drawable/themed_icon_adm"
         package="com.dv.adm" />
+    <icon
+        drawable="@drawable/themed_icon_track24"
+        package="net.track24.android" />
+    <icon
+        drawable="@drawable/themed_icon_dashchan"
+        package="com.mishiranu.dashchan" />
+    <icon
+        drawable="@drawable/themed_icon_etchdroid"
+        package="eu.depau.etchdroid" />
+    <icon
+        drawable="@drawable/themed_icon_vnc_viewer"
+        package="com.realvnc.viewer.android" />
+    <icon
+        drawable="@drawable/themed_icon_activity_launcher"
+        package="de.szalkowski.activitylauncher" />
+    <icon
+        drawable="@drawable/themed_icon_viper_fx"
+        package="com.pittvandewitt.viperfx" />
+    <icon
+        drawable="@drawable/themed_icon_beeline"
+        package="ru.beeline.services" />
+    <icon
+        drawable="@drawable/themed_icon_inshot"
+        package="com.camerasideas.instashot" />
+    <icon
+        drawable="@drawable/themed_icon_lightroom"
+        package="com.adobe.lrmobile" />
 </icons>

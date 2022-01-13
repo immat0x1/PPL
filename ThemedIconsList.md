@@ -157,4 +157,13 @@ v2.3:
 • Sony Headphones Connect
 • Terraria
 • ADM
+• Activity Launcher
+• Beeline
+• Dashchan
+• Etchdroid
+• Inshot
+• Lightroom
+• Track24
+• Viper FX
+• Vnc Viewer
 •
