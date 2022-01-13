@@ -226,6 +226,9 @@
         drawable="@drawable/themed_icon_camera"
         package="com.google.android.GoogleCamera.Urnyx" />
     <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.google.android.GoogleCamerax" />
+    <icon
         drawable="@drawable/themed_icon_chrome"
         package="com.chrome.canary" />
     <icon
@@ -741,4 +744,7 @@
     <icon
         drawable="@drawable/themed_icon_lightroom"
         package="com.adobe.lrmobile" />
+    <icon
+        drawable="@drawable/themed_icon_aimp"
+        package="com.aimp.player" />
 </icons>
