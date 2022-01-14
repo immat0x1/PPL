@@ -167,4 +167,6 @@ v2.3:
 • Viper FX
 • Vnc Viewer
 • Inware
-• 
+• Discover Killer
+• Kyivstar
+•

@@ -159,7 +159,7 @@
     <icon
         drawable="@drawable/themed_icon_classroom"
         package="com.google.android.apps.classroom" />
-                                            <!--Additional themed gcam mods icons-->
+                                  <!--Additional themed gcam mods icons below-->
     <icon
         drawable="@drawable/themed_icon_camera"
         package="org.codeaurora.snapcam" />
@@ -755,4 +755,10 @@
     <icon
         drawable="@drawable/themed_icon_inware"
         package="com.evo.inware" />
+    <icon
+        drawable="@drawable/themed_icon_discover_killer"
+        package="com.kieronquinn.app.discoverkiller" />
+    <icon
+        drawable="@drawable/themed_icon_kyivstar"
+        package="com.kyivstar.mykyivstar" />
 </icons>
