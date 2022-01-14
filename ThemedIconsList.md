@@ -1,10 +1,10 @@
 v1:
 • exteraGram & exteraGram Beta
 • WhatsApp
-• Bromite, Chrome Canary
+• Bromite
 • All GCam mods (not all ofc)
-• Tinkoff
-• Sova V RE, Original VK
+• Tinkoff Bank
+• Sova V RE & Original VK
 • VTosters & VTosters Lite
 • Sber Bank
 • Google Pay
@@ -74,7 +74,7 @@ v2.1:
 • Okko
 • VLC
 • SAI
-• Monobank
+• Mono Bank
 • Graph Messenger
 • Yandex Maps
 • Vivaldi Browser (Snapshot)

@@ -160,7 +160,7 @@
         drawable="@drawable/themed_icon_classroom"
         package="com.google.android.apps.classroom" />
     <icon
-        drawable="@drawable/themed_icon_chrome"
+        drawable="@drawable/themed_icon_bromite"
         package="org.bromite.bromite" />
     <icon
         drawable="@drawable/themed_icon_camera"
