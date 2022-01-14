@@ -159,12 +159,16 @@
     <icon
         drawable="@drawable/themed_icon_classroom"
         package="com.google.android.apps.classroom" />
-    <icon
-        drawable="@drawable/themed_icon_bromite"
-        package="org.bromite.bromite" />
+                                            <!--Additional themed gcam mods icons-->
     <icon
         drawable="@drawable/themed_icon_camera"
         package="org.codeaurora.snapcam" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.MGC_8_4_300" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.GoogleCamera.Burial16" />
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.google.android.GoogleCameraEng" />
@@ -228,6 +232,10 @@
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.google.android.GoogleCamerax" />
+                                            <!--Additional themed icons below-->
+    <icon
+        drawable="@drawable/themed_icon_bromite"
+        package="org.bromite.bromite" />
     <icon
         drawable="@drawable/themed_icon_chrome"
         package="com.chrome.canary" />
@@ -253,7 +261,7 @@
         drawable="@drawable/themed_icon_tinkoff_bank"
         package="com.idamob.tinkoff.android" />
     <icon
-        drawable="@drawable/themed_icon_sber"
+        drawable="@drawable/themed_icon_sber_bank"
         package="ru.sberbankmobile" />
     <icon
         drawable="@drawable/themed_icon_spotify"
@@ -541,9 +549,6 @@
         drawable="@drawable/themed_icon_solid_explorer"
         package="pl.solidexplorer2" />
     <icon
-        drawable="@drawable/themed_icon_camera"
-        package="com.android.MGC_8_4_300" />
-    <icon
         drawable="@drawable/themed_icon_paypal"
         package="com.paypal.android.p2pmobile" />
     <icon
@@ -747,4 +752,7 @@
     <icon
         drawable="@drawable/themed_icon_aimp"
         package="com.aimp.player" />
+    <icon
+        drawable="@drawable/themed_icon_inware"
+        package="com.evo.inware" />
 </icons>
