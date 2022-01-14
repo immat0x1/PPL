@@ -108,7 +108,7 @@ v2.2:
 • LinkedIn
 • Gallery Go
 • Magnit
-• Pyaterochka
+• 5ka
 • ForPDA
 • Medium
 • MX Player
@@ -147,7 +147,7 @@ v2.3:
 • Material Files
 • QuickPass
 • Spark
-• Diia Bank
+• Diia
 • Repainter
 • Catogram & Catogram X
 • eReader Prestigio

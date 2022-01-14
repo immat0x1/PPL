@@ -562,7 +562,7 @@
         drawable="@drawable/themed_icon_magnit"
         package="ru.tander.magnit" />
     <icon
-        drawable="@drawable/themed_icon_pyaterochka"
+        drawable="@drawable/themed_icon_5ka"
         package="pyaterochka.app" />
     <icon
         drawable="@drawable/themed_icon_yandex_market"
