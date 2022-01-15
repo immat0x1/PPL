@@ -169,4 +169,10 @@ v2.3:
 • Inware
 • Discover Killer
 • Kyivstar
+• Download Manager
+• Pepper
+• Lazy Media
+• Canva
+• Shein
+• Brainly
 •

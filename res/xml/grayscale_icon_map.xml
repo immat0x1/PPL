@@ -761,4 +761,34 @@
     <icon
         drawable="@drawable/themed_icon_kyivstar"
         package="com.kyivstar.mykyivstar" />
+    <icon
+        drawable="@drawable/themed_icon_download_manager"
+        package="idm.internet.download.manager" />
+    <icon
+        drawable="@drawable/themed_icon_download_manager"
+        package="idm.internet.download.manager.plus" />
+    <icon
+        drawable="@drawable/themed_icon_download_manager"
+        package="idm.internet.download.manager.adm.lite" />
+    <icon
+        drawable="@drawable/themed_icon_pepper"
+        package="ru.pepper" />
+    <icon
+        drawable="@drawable/themed_icon_pepper"
+        package="com.tippingcanoe.pepperpl" />
+    <icon
+        drawable="@drawable/themed_icon_pepper"
+        package="it.pepper" />
+    <icon
+        drawable="@drawable/themed_icon_canva"
+        package="com.canva.editor" />
+    <icon
+        drawable="@drawable/themed_icon_lazy_media"
+        package="com.lazycatsoftware.lmd" />
+    <icon
+        drawable="@drawable/themed_icon_shein"
+        package="com.zzkko" />
+    <icon
+        drawable="@drawable/themed_icon_brainly"
+        package="co.brainly" />
 </icons>
