@@ -232,6 +232,9 @@
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.google.android.GoogleCamerax" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.camera.CameraLauncher" />
                                             <!--Additional themed icons below-->
     <icon
         drawable="@drawable/themed_icon_bromite"
@@ -345,7 +348,7 @@
         drawable="@drawable/themed_icon_youtube"
         package="com.vanced.android.youtube" />
     <icon
-        drawable="@drawable/themed_icon_vkx"
+        drawable="@drawable/themed_icon_vk_x"
         package="ua.itaysonlab.vkx" />
     <icon
         drawable="@drawable/themed_icon_nekogram"
@@ -573,6 +576,9 @@
         drawable="@drawable/themed_icon_yandex_market"
         package="ru.beru.android" />
     <icon
+        drawable="@drawable/themed_icon_yandex_market"
+        package="ru.yandex.market.Launcherru.yandex.market" />
+    <icon
         drawable="@drawable/themed_icon_signal"
         package="org.thoughtcrime.securesms" />
     <icon
@@ -791,4 +797,13 @@
     <icon
         drawable="@drawable/themed_icon_brainly"
         package="co.brainly" />
+    <icon
+        drawable="@drawable/themed_icon_yandex_disk"
+        package="ru.yandex.disk" />
+    <icon
+        drawable="@drawable/themed_icon_yandex_disk"
+        package="ru.yandex.disk.beta" />
+    <icon
+        drawable="@drawable/themed_icon_vk_me"
+        package="com.vk.im" />
 </icons>

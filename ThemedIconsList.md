@@ -175,4 +175,5 @@ v2.3:
 • Canva
 • Shein
 • Brainly
+• Yandex Disk & Yandex Disk Beta
 •
