@@ -176,4 +176,5 @@ v2.3:
 • Shein
 • Brainly
 • Yandex Disk & Yandex Disk Beta
+• VK Me
 •
