@@ -178,3 +178,14 @@ v2.3:
 • Yandex Disk & Yandex Disk Beta
 • VK Me
 •
+
+v2.4:
+• Sber MegaMarket
+• Sber Market
+• Cloud Tips
+• Showly
+• Windscribe
+• Microsoft Office
+• Microsoft OneDrive
+• Microsoft To Do
+• 

@@ -434,6 +434,12 @@
     <icon
         drawable="@drawable/themed_icon_firefox"
         package="org.mozilla.firefox" />
+   <icon
+        drawable="@drawable/themed_icon_firefox"
+        package="org.mozilla.fenix" />
+    <icon
+        drawable="@drawable/themed_icon_firefox"
+        package="org.mozilla.firefox.beta" />
     <icon
         drawable="@drawable/themed_icon_termux"
         package="com.termux" />
@@ -485,6 +491,9 @@
     <icon
         drawable="@drawable/themed_icon_tachiyomi"
         package="eu.kanade.tachiyomi.j2k" />
+    <icon
+        drawable="@drawable/themed_icon_tachiyomi"
+        package="eu.kanade.tachiyomi" />
     <icon
         drawable="@drawable/themed_icon_anixart"
         package="com.swiftsoft.anixartd" />
@@ -806,4 +815,28 @@
     <icon
         drawable="@drawable/themed_icon_vk_me"
         package="com.vk.im" />
+    <icon
+        drawable="@drawable/themed_icon_sber_mega_market"
+        package="ru.goods.marketplace" />
+    <icon
+        drawable="@drawable/themed_icon_sber_market"
+        package="ru.instamart" />
+    <icon
+        drawable="@drawable/themed_icon_cloud_tips"
+        package="ru.cloudtips.receiver" />
+    <icon
+        drawable="@drawable/themed_icon_windscribe"
+        package="com.windscribe.vpn" />
+    <icon
+        drawable="@drawable/themed_icon_showly"
+        package="com.michaldrabik.showly2" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_office"
+        package="com.microsoft.office.officehubrow" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_to_do"
+        package="com.microsoft.todos" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_onedrive"
+        package="com.microsoft.skydrive" />
 </icons>
