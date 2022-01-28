@@ -273,6 +273,9 @@
         drawable="@drawable/themed_icon_spotify"
         package="com.spotify.lite" />
     <icon
+        drawable="@drawable/themed_icon_spotify"
+        package="id=com.spotify.s4a" />
+    <icon
         drawable="@drawable/themed_icon_alfa_bank"
         package="ru.alfabank.mobile.android" />
     <icon
@@ -830,6 +833,9 @@
     <icon
         drawable="@drawable/themed_icon_showly"
         package="com.michaldrabik.showly2" />
+    <icon
+        drawable="@drawable/themed_icon_telegram"
+        package="org.telegram.mdgramyou" />
     <icon
         drawable="@drawable/themed_icon_microsoft_office"
         package="com.microsoft.office.officehubrow" />
