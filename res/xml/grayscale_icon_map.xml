@@ -88,6 +88,9 @@
         drawable="@drawable/themed_icon_gpay"
         package="com.google.android.apps.nbu.paisa.user" />
     <icon
+        drawable="@drawable/themed_icon_gpay"
+        package="com.google.android.apps.walletnfcrel" />
+    <icon
         drawable="@drawable/themed_icon_play_games"
         package="com.google.android.play.games" />
     <icon
@@ -617,6 +620,9 @@
     <icon
         drawable="@drawable/themed_icon_book"
         package="ru.litres.android" />
+    <icon
+        drawable="@drawable/themed_icon_book"
+        package="com.reader.books" />
     <icon
         drawable="@drawable/themed_icon_storytel"
         package="grit.storytel.app" />
