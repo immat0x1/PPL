@@ -189,3 +189,9 @@ v2.4:
 • Microsoft OneDrive
 • Microsoft To Do
 • 
+
+v2.5:
+• Via Browser
+• Clash Royale
+• Geometric Weather
+•

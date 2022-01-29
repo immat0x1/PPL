@@ -843,6 +843,15 @@
         drawable="@drawable/themed_icon_telegram"
         package="org.telegram.mdgramyou" />
     <icon
+        drawable="@drawable/themed_icon_via_browser"
+        package="mark.via.gp" />
+    <icon
+        drawable="@drawable/themed_icon_clash_royale"
+        package="com.supercell.clashroyale" />
+    <icon
+        drawable="@drawable/themed_icon_geometric_weather"
+        package="wangdaye.com.geometricweather" />
+    <icon
         drawable="@drawable/themed_icon_microsoft_office"
         package="com.microsoft.office.officehubrow" />
     <icon
