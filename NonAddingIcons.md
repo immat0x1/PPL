@@ -1,3 +1,5 @@
+These icons cannot be themed without the participation of their developers.
+
 • MT Manager
 • Sberzvuk
 • Shazam
@@ -13,8 +15,11 @@
 • ApkTool M
 • VK Coffee
 • Steam
-• Telegram from Official Site
 • VK Admin
 • Brave Browser
 • Binance
+• Minecraft
 •
+
+
+*The list is not final.

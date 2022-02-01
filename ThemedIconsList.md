@@ -191,7 +191,20 @@ v2.4:
 • 
 
 v2.5:
+• Google Pay
 • Via Browser
 • Clash Royale
 • Geometric Weather
+• Rave
+• SpeedTest by Ookla
+• Pixiv
+• Freezer
+• AnyDesk
+• Microsoft Word
+• Microsoft PowerPoint
+• Microsoft Excel
+• KeePassDX
+• AniLabX
+• Behance
+• DSU SideLoader
 •

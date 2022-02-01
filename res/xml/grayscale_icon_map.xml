@@ -238,6 +238,9 @@
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.android.camera.CameraLauncher" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.android.hasli.lmc82" />
                                             <!--Additional themed icons below-->
     <icon
         drawable="@drawable/themed_icon_bromite"
@@ -304,7 +307,19 @@
         package="org.telegram.messenger" />
     <icon
         drawable="@drawable/themed_icon_telegram"
+        package="org.telegram.messenger.web" />
+    <icon
+        drawable="@drawable/themed_icon_telegram"
         package="org.telegram.messenger.beta" />
+    <icon
+        drawable="@drawable/themed_icon_telegram"
+        package="org.thunderdog.challegram" />
+    <icon
+        drawable="@drawable/themed_icon_telegram"
+        package="ir.ilmili.telegraph" />
+    <icon
+        drawable="@drawable/themed_icon_telegram"
+        package="org.telegram.mdgramyou" />
     <icon
         drawable="@drawable/themed_icon_tiktok"
         package="com.zhiliaoapp.musically" />
@@ -368,9 +383,6 @@
     <icon
         drawable="@drawable/themed_icon_gayshit"
         package="com.miHoYo.GenshinImpact" />
-    <icon
-        drawable="@drawable/themed_icon_telegram"
-        package="org.thunderdog.challegram" />
     <icon
         drawable="@drawable/themed_icon_protonmail"
         package="ch.protonmail.android" />
@@ -440,7 +452,7 @@
     <icon
         drawable="@drawable/themed_icon_firefox"
         package="org.mozilla.firefox" />
-   <icon
+    <icon
         drawable="@drawable/themed_icon_firefox"
         package="org.mozilla.fenix" />
     <icon
@@ -482,9 +494,6 @@
     <icon
         drawable="@drawable/themed_icon_sai"
         package="com.aefyr.sai" />
-    <icon
-        drawable="@drawable/themed_icon_telegram"
-        package="ir.ilmili.telegraph" />
     <icon
         drawable="@drawable/themed_icon_yandex_maps"
         package="ru.yandex.yandexmaps" />
@@ -840,9 +849,6 @@
         drawable="@drawable/themed_icon_showly"
         package="com.michaldrabik.showly2" />
     <icon
-        drawable="@drawable/themed_icon_telegram"
-        package="org.telegram.mdgramyou" />
-    <icon
         drawable="@drawable/themed_icon_via_browser"
         package="mark.via.gp" />
     <icon
@@ -852,6 +858,27 @@
         drawable="@drawable/themed_icon_geometric_weather"
         package="wangdaye.com.geometricweather" />
     <icon
+        drawable="@drawable/themed_icon_rave"
+        package="com.wemesh.android" />
+    <icon
+        drawable="@drawable/themed_icon_speedtest_by_ookla"
+        package="org.zwanoo.android.speedtest" />
+    <icon
+        drawable="@drawable/themed_icon_freezer"
+        package="f.f.freezer" />
+    <icon
+        drawable="@drawable/themed_icon_pixiv"
+        package="jp.pxv.android" />
+    <icon
+        drawable="@drawable/themed_icon_anydesk"
+        package="com.anydesk.anydeskandroid" />
+    <icon
+        drawable="@drawable/themed_icon_keepassdx"
+        package="com.kunzisoft.keepass.free" />
+    <icon
+        drawable="@drawable/themed_icon_keepassdx"
+        package="com.kunzisoft.keepass.pro" />
+    <icon
         drawable="@drawable/themed_icon_microsoft_office"
         package="com.microsoft.office.officehubrow" />
     <icon
@@ -860,4 +887,22 @@
     <icon
         drawable="@drawable/themed_icon_microsoft_onedrive"
         package="com.microsoft.skydrive" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_word"
+        package="com.microsoft.office.word" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_powerpoint"
+        package="com.microsoft.office.powerpoint" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_excel"
+        package="com.microsoft.office.excel" />
+    <icon
+        drawable="@drawable/themed_icon_anilabx"
+        package="com.crazyxacker.apps.anilabx3" />
+    <icon
+        drawable="@drawable/themed_icon_behance"
+        package="com.behance.behance" />
+    <icon
+        drawable="@drawable/themed_icon_dsu_sideloader"
+        package="vegabobo.dsusideloader" />
 </icons>
