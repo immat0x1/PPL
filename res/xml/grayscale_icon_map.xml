@@ -905,4 +905,28 @@
     <icon
         drawable="@drawable/themed_icon_dsu_sideloader"
         package="vegabobo.dsusideloader" />
+    <icon
+        drawable="@drawable/themed_icon_airbnb"
+        package="com.airbnb.android" />
+    <icon
+        drawable="@drawable/themed_icon_amazon"
+        package="com.amazon.mShop.android.shopping" />
+    <icon
+        drawable="@drawable/themed_icon_amazon"
+        package="com.amazon.phoenix" />
+    <icon
+        drawable="@drawable/themed_icon_ebay"
+        package="com.ebay.mobile" />
+    <icon
+        drawable="@drawable/themed_icon_soundcloud"
+        package="com.soundcloud.android" />
+    <icon
+        drawable="@drawable/themed_icon_soundcloud"
+        package="com.soundcloud.android" />
+    <icon
+        drawable="@drawable/themed_icon_wordpress"
+        package="org.wordpress.android" />
+    <icon
+        drawable="@drawable/themed_icon_stackoverflow"
+        package="com.niotron.stackoverflow" />
 </icons>

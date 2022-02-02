@@ -206,4 +206,10 @@ v2.5:
 • AniLabX
 • Behance
 • DSU SideLoader
+• AirBnB
+• Amazon
+• eBay
+• SoundCloud
+• StackOverFlow
+• WordPress
 •
