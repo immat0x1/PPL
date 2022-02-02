@@ -7,7 +7,6 @@ v1:
 • Sova V RE & Original VK
 • VTosters & VTosters Lite
 • Sber Bank
-• Google Pay
 • Spotify
 • Alfa Bank
 • QIWI
