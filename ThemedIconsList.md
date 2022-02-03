@@ -212,4 +212,5 @@ v2.5:
 • SoundCloud
 • StackOverFlow
 • WordPress
+• Vanced Manager
 •
