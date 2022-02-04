@@ -932,4 +932,10 @@
     <icon
         drawable="@drawable/themed_icon_vanced_manager"
         package="com.vanced.manager" />
+    <icon
+        drawable="@drawable/themed_icon_wallfever"
+        package="com.amaan.wallfever" />
+    <icon
+        drawable="@drawable/themed_icon_smudgess"
+        package="com.gng.smudgess" />
 </icons>

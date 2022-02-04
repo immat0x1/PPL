@@ -20,21 +20,19 @@ v1:
 • Magisk
 • Zenly
 • MiXplorer
-• Google Classroom (Moved from December Launcher)
+• Google Classroom
 •
 
 v1.2:
-• Google Nest (Moved from A12L Launcher)
-• Google Earth (Moved from A12L Launcher) (Not showing now, blame Google)
-• Google FitBit (Moved from A12L Launcher)
-• Google Admin (Moved from A12L Launcher) (Not showing now, blame Google)
-• Google Voice (Moved from A12L Launcher)
-• YouTube Vanced
-• YouTube Music Vanced
+• Google Nest
+• Google Earth
+• Google FitBit
+• Google Admin
+• Google Voice
 •
 
 v2.0:
-• Nekogram & Nekogram X (Exclusive icon!)
+• Nekogram & Nekogram X
 • Bitwarden
 • VK X
 • Genshin Impact
@@ -213,4 +211,6 @@ v2.5:
 • StackOverFlow
 • WordPress
 • Vanced Manager
+• WallFever
+• Smudgess
 •
