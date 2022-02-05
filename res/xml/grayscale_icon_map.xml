@@ -938,4 +938,43 @@
     <icon
         drawable="@drawable/themed_icon_smudgess"
         package="com.gng.smudgess" />
+    <icon
+        drawable="@drawable/themed_icon_genius"
+        package="com.genius.android" />
+    <icon
+        drawable="@drawable/themed_icon_steam_link"
+        package="com.valvesoftware.steamlink" />
+    <icon
+        drawable="@drawable/themed_icon_bspb_bank"
+        package="ru.bspb" />
+    <icon
+        drawable="@drawable/themed_icon_kfc"
+        package="ru.kfc.kfc_delivery" />
+    <icon
+        drawable="@drawable/themed_icon_kfc"
+        package="com.kfc.us.mobile" />
+    <icon
+        drawable="@drawable/themed_icon_kfc"
+        package="com.sirma.kfc" />
+    <icon
+        drawable="@drawable/themed_icon_kfc"
+        package="com.kfc.me" />
+    <icon
+        drawable="@drawable/themed_icon_kfc"
+        package="com.kfc.egypt" />
+    <icon
+        drawable="@drawable/themed_icon_kfc"
+        package="com.lsretail.omni.hospitality.loyalty.android.kfc" />
+    <icon
+        drawable="@drawable/themed_icon_samsung_music"
+        package="com.sec.android.app.music" />
+    <icon
+        drawable="@drawable/themed_icon_kiwi_browser"
+        package="com.kiwibrowser.browser" />
+    <icon
+        drawable="@drawable/themed_icon_bgram"
+        package="org.telegram.BifToGram" />
+    <icon
+        drawable="@drawable/themed_icon_tele2"
+        package="ru.tele2.mytele2" />
 </icons>

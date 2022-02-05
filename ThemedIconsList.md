@@ -213,4 +213,12 @@ v2.5:
 • Vanced Manager
 • WallFever
 • Smudgess
+• Steam Link
+• Genius
+• BSPB Bank
+• KFC
+• Samsung Music
+• Kiwi Browser
+• BGram
+• Tele2
 •
