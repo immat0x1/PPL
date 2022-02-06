@@ -226,4 +226,5 @@ v2.5:
 • Perekrestok
 • Trade Republic
 • Infinity for Reddit
+• HoYoLab
 •
