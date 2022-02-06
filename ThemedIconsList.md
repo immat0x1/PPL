@@ -225,4 +225,5 @@ v2.5:
 • Auchan
 • Perekrestok
 • Trade Republic
+• Infinity for Reddit
 •

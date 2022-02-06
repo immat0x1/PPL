@@ -1001,4 +1001,7 @@
     <icon
         drawable="@drawable/themed_icon_trade_republic"
         package="de.traderepublic.app" />
+    <icon
+        drawable="@drawable/themed_icon_infinity_for_reddit"
+        package="ml.docilealligator.infinityforreddit" />
 </icons>
