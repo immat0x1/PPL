@@ -221,4 +221,8 @@ v2.5:
 • Kiwi Browser
 • BGram
 • Tele2
+• AniLibria
+• Auchan
+• Perekrestok
+• Trade Republic
 •

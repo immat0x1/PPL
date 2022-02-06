@@ -270,6 +270,9 @@
         drawable="@drawable/themed_icon_tinkoff_bank"
         package="com.idamob.tinkoff.android" />
     <icon
+        drawable="@drawable/themed_icon_tinkoff_bank"
+        package="ru.tinkoff.investing" />
+    <icon
         drawable="@drawable/themed_icon_sber_bank"
         package="ru.sberbankmobile" />
     <icon
@@ -429,8 +432,11 @@
         drawable="@drawable/themed_icon_youla"
         package="com.allgoritm.youla" />
     <icon
-        drawable="@drawable/themed_icon_poweramp"
+        drawable="@drawable/themed_icon_play_button"
         package="com.maxmpz.audioplayer" />
+    <icon
+        drawable="@drawable/themed_icon_play_button"
+        package="code.name.monkey.retromusic" />
     <icon
         drawable="@drawable/themed_icon_mymts"
         package="ru.mts.mymts" />
@@ -522,7 +528,7 @@
         drawable="@drawable/themed_icon_vivaldi"
         package="com.vivaldi.browser.snapshot" />
     <icon
-        drawable="@drawable/themed_icon_poweramp"
+        drawable="@drawable/themed_icon_play_button"
         package="gpm.tnt_premier" />
     <icon
         drawable="@drawable/themed_icon_fenrir_vk"
@@ -530,6 +536,12 @@
     <icon
         drawable="@drawable/themed_icon_zarchiver"
         package="ru.zdevs.zarchiver" />
+    <icon
+        drawable="@drawable/themed_icon_zarchiver"
+        package="ru.zdevs.zarchivercloud" />
+    <icon
+        drawable="@drawable/themed_icon_zarchiver"
+        package="ru.zdevs.zarchiver.pro" />
     <icon
         drawable="@drawable/themed_icon_yandex_music"
         package="ru.yandex.music" />
@@ -606,10 +618,10 @@
         drawable="@drawable/themed_icon_signal"
         package="org.thoughtcrime.securesms" />
     <icon
-        drawable="@drawable/themed_icon_poweramp"
+        drawable="@drawable/themed_icon_play_button"
         package="com.mxtech.videoplayer.ad" />
     <icon
-        drawable="@drawable/themed_icon_poweramp"
+        drawable="@drawable/themed_icon_play_button"
         package="com.mxtech.videoplayer.pro" />
     <icon
         drawable="@drawable/themed_icon_movily"
@@ -977,4 +989,16 @@
     <icon
         drawable="@drawable/themed_icon_tele2"
         package="ru.tele2.mytele2" />
+    <icon
+        drawable="@drawable/themed_icon_perekrestok"
+        package="ru.perekrestok.app" />
+    <icon
+        drawable="@drawable/themed_icon_anilibria"
+        package="ru.radiationx.anilibria.app" />
+    <icon
+        drawable="@drawable/themed_icon_auchan"
+        package="ru.myauchan.droid" />
+    <icon
+        drawable="@drawable/themed_icon_trade_republic"
+        package="de.traderepublic.app" />
 </icons>
