@@ -227,4 +227,9 @@ v2.5:
 • Trade Republic
 • Infinity for Reddit
 • HoYoLab
+• Microsoft Edge
+• WASD
+• Pixel Buds
+• AdGuard
+• Alpha BackUp
 •

@@ -247,6 +247,12 @@
         package="org.bromite.bromite" />
     <icon
         drawable="@drawable/themed_icon_chrome"
+        package="com.chrome.beta" />
+    <icon
+        drawable="@drawable/themed_icon_chrome"
+        package="com.chrome.dev" />
+    <icon
+        drawable="@drawable/themed_icon_chrome"
         package="com.chrome.canary" />
     <icon
         drawable="@drawable/themed_icon_vk"
@@ -909,6 +915,18 @@
         drawable="@drawable/themed_icon_microsoft_excel"
         package="com.microsoft.office.excel" />
     <icon
+        drawable="@drawable/themed_icon_microsoft_edge"
+        package="com.microsoft.emmx" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_edge"
+        package="com.microsoft.emmx.dev" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_edge"
+        package="com.microsoft.emmx.beta" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_edge"
+        package="com.microsoft.emmx.canary" />
+    <icon
         drawable="@drawable/themed_icon_anilabx"
         package="com.crazyxacker.apps.anilabx3" />
     <icon
@@ -1007,4 +1025,19 @@
     <icon
         drawable="@drawable/themed_icon_hoyolab"
         package="com.mihoyo.hoyolab" />
+    <icon
+        drawable="@drawable/themed_icon_wasd"
+        package="ru.wasd.mobile" />
+    <icon
+        drawable="@drawable/themed_icon_google_pixelbuds"
+        package="com.google.android.apps.wearables.maestro.companion" />
+    <icon
+        drawable="@drawable/themed_icon_adguard"
+        package="com.adguard.android.contentblocker" />
+    <icon
+        drawable="@drawable/themed_icon_turbo_vpn"
+        package="free.vpn.unblock.proxy.turbovpn" />
+    <icon
+        drawable="@drawable/themed_icon_alpha_backup"
+        package="com.ruet_cse_1503050.ragib.appbackup.iap" />
 </icons>

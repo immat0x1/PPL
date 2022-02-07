@@ -19,6 +19,7 @@ These icons cannot be themed without the participation of their developers.
 • Brave Browser
 • Binance
 • Minecraft
+• XDA
 •
 
 
