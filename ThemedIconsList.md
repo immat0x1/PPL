@@ -232,4 +232,6 @@ v2.5:
 • Pixel Buds
 • AdGuard
 • Alpha BackUp
+• Microsoft RemoteDesktop
+• TG X Theme Generator
 •

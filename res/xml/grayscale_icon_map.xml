@@ -1040,4 +1040,10 @@
     <icon
         drawable="@drawable/themed_icon_alpha_backup"
         package="com.ruet_cse_1503050.ragib.appbackup.iap" />
+    <icon
+        drawable="@drawable/themed_icon_microsoft_remote_desktop"
+        package="com.microsoft.rdc.androidx" />
+    <icon
+        drawable="@drawable/themed_icon_palette"
+        package="bruhcollective.itaysonlab.tgxthemegenerator" />
 </icons>
