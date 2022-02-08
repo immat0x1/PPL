@@ -1046,4 +1046,7 @@
     <icon
         drawable="@drawable/themed_icon_palette"
         package="bruhcollective.itaysonlab.tgxthemegenerator" />
+    <icon
+        drawable="@drawable/themed_icon_wolt"
+        package="com.wolt.android" />
 </icons>

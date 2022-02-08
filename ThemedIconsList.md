@@ -235,3 +235,7 @@ v2.5:
 • Microsoft RemoteDesktop
 • TG X Theme Generator
 •
+
+v2.6:
+• Wolt
+•

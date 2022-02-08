@@ -74,7 +74,7 @@
     </style>
     <style name="AppTheme.Dark" parent="@style/LauncherTheme.Dark">
         <item name="allappsHeaderProtectionColor">@android:color/system_neutral1_700</item>
-        <item name="focusHighlight">@android:color/system_accent1_600</item>
+        <item name="focusHighlight">@android:color/system_accent1_400</item>
         <item name="groupHighlight">@android:color/system_neutral1_800</item>
         <item name="qsbFillColor">#ff3c4043</item>
         <item name="qsbIconTintPrimary">#ff4285f4</item>
@@ -85,7 +85,7 @@
     </style>
     <style name="AppTheme.Dark.DarkMainColor" parent="@style/LauncherTheme.Dark.DarkMainColor">
         <item name="allappsHeaderProtectionColor">@android:color/system_neutral1_700</item>
-        <item name="focusHighlight">@android:color/system_accent1_600</item>
+        <item name="focusHighlight">@android:color/system_accent1_400</item>
         <item name="groupHighlight">@android:color/system_neutral1_800</item>
         <item name="qsbFillColor">#ff202124</item>
         <item name="qsbIconTintPrimary">#ff4285f4</item>
@@ -96,7 +96,7 @@
     </style>
     <style name="AppTheme.Dark.DarkText" parent="@style/LauncherTheme.Dark.DarkText">
         <item name="allappsHeaderProtectionColor">@android:color/system_neutral1_700</item>
-        <item name="focusHighlight">@android:color/system_accent1_600</item>
+        <item name="focusHighlight">@android:color/system_accent1_400</item>
         <item name="groupHighlight">@android:color/system_neutral1_800</item>
         <item name="qsbFillColor">#ff202124</item>
         <item name="qsbIconTintPrimary">#ff4285f4</item>
@@ -1770,7 +1770,7 @@
         <item name="iconDisplay">taskbar</item>
     </style>
     <style name="BaseIconRoot" parent="@android:style/TextAppearance.DeviceDefault.DialogWindowTitle">
-        <item name="android:fontFamily">@android:string/config_batterymeterErrorPerimeterPath</item>
+        <item name="android:fontFamily">@android:string/config_bodyFontFamilyMedium</item>
     </style>
     <style name="BaseIconUnBounded" parent="@style/BaseIconRoot">
         <item name="android:textColor">?android:textColorSecondary</item>
@@ -2768,7 +2768,7 @@
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" />
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title" />
     <style name="TextHeadline" parent="@android:style/TextAppearance.DeviceDefault.DialogWindowTitle">
-        <item name="android:fontFamily">@android:string/config_batterymeterErrorPerimeterPath</item>
+        <item name="android:fontFamily">@android:string/config_bodyFontFamilyMedium</item>
     </style>
     <style name="TextTitle" parent="@android:style/TextAppearance.DeviceDefault" />
     <style name="Theme.AppCompat" parent="@style/Base.Theme.AppCompat" />
