@@ -1049,4 +1049,16 @@
     <icon
         drawable="@drawable/themed_icon_wolt"
         package="com.wolt.android" />
+    <icon
+        drawable="@drawable/themed_icon_castbox"
+        package="fm.castbox.audiobook.radio.podcast" />
+    <icon
+        drawable="@drawable/themed_icon_akbars_bank"
+        package="ru.akbars.mobile" />
+    <icon
+        drawable="@drawable/themed_icon_akbars_bank"
+        package="ru.akbars.akbf" />
+    <icon
+        drawable="@drawable/themed_icon_akbars_bank"
+        package="com.bssys.mbcphone.akbars" />
 </icons>

@@ -23,7 +23,7 @@ v1:
 • Google Classroom
 •
 
-v1.2:
+v1.1:
 • Google Nest
 • Google Earth
 • Google FitBit
@@ -238,4 +238,6 @@ v2.5:
 
 v2.6:
 • Wolt
+• Castbox
+• AkBars Bank
 •
