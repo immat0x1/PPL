@@ -2,6 +2,7 @@
 Modification for Pixel Launcher with new themed icons & some useful features;
 
 Features:
+
 • Third party quality themed icons support (more than 200 apps). All themed icons vectorized;
 
 • New grid options: 5x7, 5x6, 4x7, 4x6, 4x5;
