@@ -1,7 +1,6 @@
 These icons cannot be themed without the participation of their developers.
 
 • MT Manager
-• Sberzvuk
 • Shazam
 • Microsoft Teams
 • Snapseed

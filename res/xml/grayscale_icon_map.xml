@@ -1061,4 +1061,7 @@
     <icon
         drawable="@drawable/themed_icon_akbars_bank"
         package="com.bssys.mbcphone.akbars" />
+    <icon
+        drawable="@drawable/themed_icon_sber_zvuk"
+        package="com.zvooq.openplay" />
 </icons>
