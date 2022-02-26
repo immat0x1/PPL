@@ -240,4 +240,6 @@ v2.6:
 • Wolt
 • Castbox
 • AkBars Bank
+• Mir Pay
+• Sber Zvuk
 •
