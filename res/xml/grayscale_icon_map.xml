@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
-                                            <!--Additional themed icons below-->
+<!--Additional themed icons below-->
+    <icon
+        drawable="@drawable/themed_icon_realme_parts"
+        package="com.realmeparts" />
+    <icon
+        drawable="@drawable/themed_icon_asphalt_9"
+        package="com.gameloft.android.ANMP.GloftA9HM" />
+    <icon
+        drawable="@drawable/themed_icon_fancade"
+        package="com.martinmagni.fancade" />
+    <icon
+        drawable="@drawable/themed_icon_spectroid"
+        package="org.intoorbit.spectrum" />
+    <icon
+        drawable="@drawable/themed_icon_notify_for_mi_band"
+        package="com.mc.miband1" />
+    <icon
+        drawable="@drawable/themed_icon_dozor_city"
+        package="gts.dozor_city" />
     <icon
         drawable="@drawable/themed_icon_sber_zvuk"
         package="com.zvooq.openplay" />
@@ -41,6 +59,12 @@
         drawable="@drawable/themed_icon_tinkoff_bank"
         package="ru.tinkoff.investing" />
     <icon
+        drawable="@drawable/themed_icon_tinkoff_bank"
+        package="ru.tinkoff.mvno" />
+    <icon
+        drawable="@drawable/themed_icon_tinkoff_bank"
+        package="ru.tinkoff.accounting" />
+    <icon
         drawable="@drawable/themed_icon_sber_bank"
         package="ru.sberbankmobile" />
     <icon
@@ -51,7 +75,7 @@
         package="com.spotify.lite" />
     <icon
         drawable="@drawable/themed_icon_spotify"
-        package="id=com.spotify.s4a" />
+        package="com.spotify.s4a" />
     <icon
         drawable="@drawable/themed_icon_alfa_bank"
         package="ru.alfabank.mobile.android" />
@@ -829,7 +853,7 @@
     <icon
         drawable="@drawable/themed_icon_mir"
         package="ru.nspk.mir.loyalty" />
-                                  <!--Additional themed gcam mods icons below-->
+<!--Additional themed gcam mods icons below-->
     <icon
         drawable="@drawable/themed_icon_camera"
         package="org.codeaurora.snapcam" />
@@ -908,7 +932,7 @@
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.android.hasli.lmc82" />
-                                                <!--Google themed icons below-->
+<!--Google themed icons below-->
     <icon
         drawable="@drawable/themed_icon_android_auto"
         package="com.google.android.projection.gearhead" />

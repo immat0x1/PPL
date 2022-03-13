@@ -242,4 +242,7 @@ v2.6:
 • AkBars Bank
 • Mir Pay
 • Sber Zvuk
-•
+• Spectroid
+• Notify for Mi Band
+• Realme Parts
+• 
