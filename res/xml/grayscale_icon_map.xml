@@ -2,6 +2,9 @@
 <icons>
 <!--Additional themed icons below-->
     <icon
+        drawable="@drawable/themed_icon_yarus"
+        package="com.its.yarus" />
+    <icon
         drawable="@drawable/themed_icon_realme_parts"
         package="com.realmeparts" />
     <icon

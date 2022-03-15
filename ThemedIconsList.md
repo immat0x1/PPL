@@ -245,4 +245,6 @@ v2.6:
 • Spectroid
 • Notify for Mi Band
 • Realme Parts
-• 
+• Asphalt 9
+• YARUS (ЯRUS)
+•
