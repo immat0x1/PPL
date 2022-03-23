@@ -2,6 +2,15 @@
 <icons>
 <!--Additional themed icons below-->
     <icon
+        drawable="@drawable/themed_icon_murglar"
+        package="com.badmanners.murglar2" />
+    <icon
+        drawable="@drawable/themed_icon_murglar"
+        package="com.badmanners.murglar" />
+    <icon
+        drawable="@drawable/themed_icon_vk_music"
+        package="com.uma.musicvk" />
+    <icon
         drawable="@drawable/themed_icon_yarus"
         package="com.its.yarus" />
     <icon

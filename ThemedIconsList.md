@@ -247,4 +247,6 @@ v2.6:
 • Realme Parts
 • Asphalt 9
 • YARUS (ЯRUS)
+• VK Music
+• Murglar & Murglar Beta
 •
