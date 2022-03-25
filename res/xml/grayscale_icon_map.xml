@@ -2,6 +2,12 @@
 <icons>
 <!--Additional themed icons below-->
     <icon
+        drawable="@drawable/themed_icon_line"
+        package="jp.naver.line.android" />
+    <icon
+        drawable="@drawable/themed_icon_telegram_monet"
+        package="com.c3r5b8.telegram_monet" />
+    <icon
         drawable="@drawable/themed_icon_murglar"
         package="com.badmanners.murglar2" />
     <icon

@@ -122,7 +122,7 @@ v2.2:
 • FastHub
 • Mi Buds M8
 • Wallet
-• Uber Russia 
+• Uber Russia
 • Raifaisen Bank
 • Tochka Bank
 • Mi Fit
@@ -185,7 +185,7 @@ v2.4:
 • Microsoft Office
 • Microsoft OneDrive
 • Microsoft To Do
-• 
+•
 
 v2.5:
 • Google Pay
@@ -249,4 +249,6 @@ v2.6:
 • YARUS (ЯRUS)
 • VK Music
 • Murglar & Murglar Beta
+• LINE
+• Telegram Monet
 •
